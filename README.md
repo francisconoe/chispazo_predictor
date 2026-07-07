@@ -73,3 +73,4 @@ Se escribe una hoja OUTPUT con las 6 combinaciones, indicando método, suma, dif
 Formato profesional: cabeceras con colores, bordes, alternancia de colores en filas y resaltado de celdas según el estado.
 
 Se añade una hoja COMBINACIONES_REPETIDAS que detecta y lista aquellas combinaciones que han aparecido más de una vez en todo el historial, con sus fechas y concursos.
+<img width="1153" height="671" alt="image" src="https://github.com/user-attachments/assets/354c289d-2cec-4f24-b495-51d03d110ae7" />
